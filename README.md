@@ -31,4 +31,4 @@ In the world of cybersecurity, network traffic is where all the action happens. 
 **Pro-tip**: If anyone asks, I’m just capturing packets, not hearts. 💔✨
 
 ---
-
+## 👉🏾 [Lab Walkthrough](https://github.com/Kpierre03/tcpdump/blob/main/tcpdump.md)
